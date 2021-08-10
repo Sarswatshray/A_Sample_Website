@@ -1,0 +1,20 @@
+*{
+    font-family: cursive;
+    user-select: none;
+}
+.Head{
+    text-align: center;
+    background-color: yellow;
+    font-size: 30px;
+}
+.First_Paragraph{
+    font-size: 20px;
+}
+.Img1{
+    width: 600;
+    float: right;
+    margin-top: -450px;
+}
+.Instagram{
+    width: 20px;
+}
